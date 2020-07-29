@@ -29,7 +29,7 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+My owner is Henryxy3
 
 Special thanks to [this person](t.me/denver02) for helping me.
 
